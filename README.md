@@ -1,4 +1,6 @@
-# 在 Docker 中运行一个 Linux 容器，实际上就是在 Docker 容器内运行一个 Linux 发行版的镜像。以下是如何在 Docker 中安装并运行 Linux 发行版的步骤，通常我们直接使用官方提供的 Linux 镜像（如 Ubuntu、CentOS 等）来创建容器。
+# Docker安装Ubantu
+
+在 Docker 中运行一个 Linux 容器，实际上就是在 Docker 容器内运行一个 Linux 发行版的镜像。以下是如何在 Docker 中安装并运行 Linux 发行版的步骤，通常我们直接使用官方提供的 Linux 镜像（如 Ubuntu、CentOS 等）来创建容器。
 
 ### 1. **确保 Docker 已安装**
 
